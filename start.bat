@@ -1,0 +1,1 @@
+main.py venv/scripts/python.exe
